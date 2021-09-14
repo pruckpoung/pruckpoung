@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Patty (Puthimon Ruckpoung)
 - 👀 I’m interested in data, forecasting, visualization, ect.
-- 🌱 I’m currently learning IBM Data Analyst
+- 🌱 I’m currently learning IBM Data Analyst, IBM Data Science
 - 🏢 I will be for a full time career in the next few months
 - 📫 How to reach me: puthimon.r@gmail.com or https://www.linkedin.com/in/p-ruckpoung/
 
