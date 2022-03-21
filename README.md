@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Patty (Puthimon Ruckpoung)
 - 👀 I’m interested in data, forecasting, visualization, ect.
-- 🌱 I’m currently learning IBM Data Analyst, IBM Data Science
-- 🏢 I will be for a full time career in the next few months
+- 🏢 I am currently seeking a full time career in Business Analytics 
+- ✨ My portfolio: https://pruckpoung.github.io/Ethos_1_0_0/
 - 📫 How to reach me: puthimon.r@gmail.com or https://www.linkedin.com/in/p-ruckpoung/
 
 <!---
